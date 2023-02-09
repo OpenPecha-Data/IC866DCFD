@@ -1,0 +1,16 @@
+id: IC866DCFD
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:24:52.828611
+last_modified: 2023-02-10 00:24:52.828707
+source_metadata:
+  title: 'Asaṅga: Abhidharmasamuccaya'
+  language: bo
+bases:
+  '4874':
+    base_file: 4874.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

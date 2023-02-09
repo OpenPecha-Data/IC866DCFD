@@ -1,0 +1,15 @@
+id: 9fe0a2e8373f4bc3b445f9d2aaae9c40
+annotation_type: index
+revision: '00001'
+annotations:
+  a8f0b9b787004aac9af717008b5076be:
+    base: 4874.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Chapter II
+      span:
+        start: 11
+        end: 17239
